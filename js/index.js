@@ -25,10 +25,11 @@ fetchBooksJson().then(books => {
             <div class="card" style="width: 18rem;">
                 <img src="${img}" class="card-img-top" alt="image for the movie card">
                 <div class="card-body">
-                    <h3 class="card-title-title">${id}. ${title}</h3>
-                    <h5 class="card-title-storyline"><img class= "bookIcon"src="/icons/bookIcon.png"> Saga : ${storyline}</h5>
-                    <h5 class="card-title-year"><img class= "hourGlassIcon"src="/icons/sandIcon.png""> Año : ${year}</h5>
-                    <h5 class="card-title-description"><img class= "wingCapIcon"src="/icons/capIcon.png""> Sinopsis : ${synopsis }</h5>
+                    <h3 class="titleArea">${id}. ${title}</h3>
+                    <h5 class="titleStoryline"><img class= "bookIcon"src="/icons/bookIcon.png"> Saga : ${storyline}</h5>
+                    <h5 class="titleYear"><img class= "hourGlassIcon"src="/icons/sandIcon.png""> Año : ${year}</h5>
+                    <h5 class="titleSynopsis"><img class= "wingCapIcon"src="/icons/capIcon.png""> Sinopsis :</h5>
+                    <h6 class="synopsisArea"> ${synopsis }</h6>
                 </div>
             </div>
         `
