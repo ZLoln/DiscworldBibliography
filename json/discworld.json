@@ -1,0 +1,332 @@
+{
+    "libros":[
+        {
+            "id" : 1,
+            "portada" : "https://kbimages1-a.akamaihd.net/7ebc6e54-d364-4cfe-9186-21c1f46a377f/353/569/90/False/the-colour-of-magic.jpg",
+            "titulo" : "The Colour of Magic",
+            "saga" : "Rincenwind",
+            "sinopsis" : "In the beginning there was a turtle. Somewhere on the frontier between thought and reality exists the Discworld, a parallel time and place which might sound and smell very much like our own, but which looks completely different. Particularly as it's carried though space on the back of a giant turtle (sex unknown). It plays by different rules. But then, some things are the same everywhere. The Disc's very existence is about to be threatened by a strange new blight: the world's first tourist, upon whose survival rests the peace and prosperity of the land. Unfortunately, the person charged with maintaining that survival in the face of robbers, mercenaries and, well, Death, is a spectacularly inept wizard.",
+            "año" : "1983"
+        },
+        {
+            "id" : 2,
+            "portada" : "https://kbimages1-a.akamaihd.net/05ebabaa-91c0-49aa-808e-17989f4f2a69/353/569/90/False/the-light-fantastic-1.jpg" ,
+            "titulo" : "The Light Fantastic" ,
+            "saga" : "Rincenwind",
+            "sinopsis" : "'What shall we do?' said Twoflower.'Panic?' said Rincewind hopefully. He always held that panic was the best means of survival. As it moves towards a seemingly inevitable collision with a malevolent red star, the Discworld could do with a hero. What it doesn't need is a singularly inept and cowardly wizard, still recovering from the trauma of falling off the edge of the world, or a well-meaning tourist and his luggage which has a mind (and legs) of its own. Which is a shame because that's all there is...",
+            "año" : "1986"
+        },
+        {
+            "id" : 3,
+            "portada" : "https://kbimages1-a.akamaihd.net/72fc9026-e8f2-4164-a5e1-2d8de0d8d29f/353/569/90/False/equal-rites-2.jpg",
+            "titulo" : "Equal Rites",
+            "saga" : "The Witches",
+            "sinopsis" : "They say that a little knowledge is a dangerous thing, but it is not one half so bad as a lot of ignorance.The last thing the wizard Drum Billet did, before Death laid a bony hand on his shoulder, was to pass on his staff of power to the eighth son of an eighth son. Unfortunately for his colleagues in the chauvinistic (not to say misogynistic) world of magic, he failed to check that the baby in question was a son. Everybody knows that there's no such thing as a female wizard. But now it's gone and happened, there's nothing much anyone can do about it. Let the battle of the sexes begin...",
+            "año" : "1987"
+        },
+        {
+            "id" : 4,
+            "portada" : "https://kbimages1-a.akamaihd.net/5a6eb954-8890-421d-8ed0-b62987d3c857/353/569/90/False/mort-2.jpg",
+            "titulo" : "Mort" ,
+            "saga" : "Death",
+            "sinopsis" : "Death comes to us all. When he came to Mort, he offered him a job. Henceforth, Death is no longer going to be the end, merely the means to an end. It's an offer Mort can't refuse. As Death's apprentice he'll have free board, use of the company horse - and being dead isn't compulsory. It's a dream job - until he discovers that it can be a killer on his love life...",
+            "año" : "1987"
+        },
+        {
+            "id" : 5,
+            "portada" : "https://kbimages1-a.akamaihd.net/34293c17-7a24-4437-a36a-9dc9bf00fdfb/353/569/90/False/sourcery-1.jpg",
+            "titulo" : "Sourcery",
+            "saga" : "Rincenwind" ,
+            "sinopsis" : "All this books and stuff, that isn't what it should all be about. What we need is real wizardry. There was an eighth son of an eighth son. He was, quite naturally, a wizard. And there it should have ended. However (for reasons we'd better not go into), he had seven sons. And then he had an eighth son... a wizard squared...a source of magic...a Sourcerer. Unseen University has finally got what it wished for: the most powerful wizard on the disc. Which, unfortunately, could mean that the death of all wizardry is at hand. And that the world is going to end, depending on whom you listen to. Unless of course one inept wizard can take the University's most precious artefact, the very embodiment of magic itself, and deliver it halfway across the disc to safety...",
+            "año" : "1988"
+        },
+        {
+            "id" : 6,
+            "portada" : "https://kbimages1-a.akamaihd.net/310b5580-5054-4462-be6a-16c08df4f0b7/353/569/90/False/wyrd-sisters-1.jpg",
+            "titulo" : "Wyrd Sisters",
+            "saga" : "The Witches",
+            "sinopsis" : "Things like crowns had a troublesome effect on clever folks; it was best to leave all the reigning to the kind of people whose eyebrows met in the middle. Three witches gathered on a lonely heath. A king cruelly murdered, his throne usurped by his ambitious cousin. A child heir and the crown of the kingdom, both missing. Witches don't have these kind of dynastic problems themselves - in fact, they don't have leaders. Granny Weatherwax was the most highly-regarded of the leaders they didn't have. But even she found that meddling in royal politics was a lot more complicated than certain playwrights would have you believe, particularly when the blood on your hands just won't wash off and you're facing a future with knives in it...",
+            "año" : "1988"
+        },
+        {
+            "id" : 7,
+            "portada" : "https://kbimages1-a.akamaihd.net/92c70c10-07ea-46d5-bd6e-d3fb7f153a5b/353/569/90/False/pyramids-2.jpg" ,
+            "titulo" : "Pyramids",
+            "saga" : "Djelibeybi" ,
+            "sinopsis" : "'Look after the dead', said the priests, 'and the dead will look after you.'      Wise words in all probability, but a tall order when, like Teppic, you have just become the pharaoh of a small and penniless country rather earlier than expected, and your treasury is unlikely to stretch to the building of a monumental pyramid to honour your dead father. He'd had the best education money could buy of course, but unfortunately the syllabus at the Assassin's Guild in Ankh-Morpork did not cover running a kingdom and basic financial acumen...",
+            "año" : "1989"
+        },
+        {
+            "id" : 8,
+            "portada" : "https://kbimages1-a.akamaihd.net/162fb7eb-872d-46b7-a7bc-f9ab8d978a37/353/569/90/False/guards-guards-1.jpg" ,
+            "titulo" : "Guards! Guards!",
+            "saga" : "The City Watch",
+            "sinopsis" : "'Vimes ran a practised eye over the assortment before him. It was the usual Ankh-Morpork mob in times of crisis; half of them were here to complain, a quarter of them were here to watch the other half, and the remainder were here to rob, importune or sell hotdogs to the rest.' Insurrection is in the air in Ankh-Morpork. The Haves and Have-Nots are about to fall out all over again. Captain Sam Vimes of the city's ramshackle Night Watch is used to this. It's enough to drive a man to drink. Well, to drink more. But this time, something is different - the Have-Nots have found the key to a dormant, lethal weapon that even they don't fully understand, and they're about to unleash a campaign of terror on the city. Time for Captain Vimes to sober up.",
+            "año" : "1989"
+        },
+        {
+            "id" : 9,
+            "portada" : "https://kbimages1-a.akamaihd.net/6359b16d-c266-4e75-823e-f97bbb834a0f/353/569/90/False/eric-14.jpg",
+            "titulo" : "Eric" ,
+            "saga" : "Rincenwind",
+            "sinopsis" : "Eric calls up a demon to grant him three wishes - but what he gets is the Discworld's most incompetent wizard... Eric is the Discworld's only demonology hacker. The trouble is, he's not very good at it. All he wants is the usual three wishes: to be immortal, rule the world and have the most beautiful woman fall madly in love with him. The usual stuff. But what he gets is Rincewind, the Disc's most incompetent wizard, and Rincewind's Luggage (the world's most dangerous travel accessory) into the bargain. Terry Pratchett's hilarious take on the Faust legend stars many of the Discworld's most popular characters in an outrageous adventure that will leave Eric wishing once more - this time, quite fervently, that he'd never been born.",
+            "año" : "1990"
+        },
+        {
+            "id" : 10,
+            "portada" : "https://kbimages1-a.akamaihd.net/a23bb2f4-089d-421c-a1da-058d57cd2af0/353/569/90/False/moving-pictures-1.jpg",
+            "titulo" : "Moving Pictures" ,
+            "saga" : "Industrial Revolution",
+            "sinopsis" : "'Holy Wood is a different sort of place. People act differently here. Everywhere else the most important things are gods or money or cattle. Here, the most important thing is to be important.' Alchemists have always thought that they can change reality, shape it to their own purpose. Imagine then the damage that could be wrought on the Discworld if they get their hands on the ultimate alchemy: the invention of motion pictures, the greatest making of illusions. It may be a triumph of universe-shaking proportions. It's either that or they're about to unlock the dark secret of the Holy Wood hills - by mistake...",
+            "año" : "1990"
+        },
+        {
+            "id" : 11,
+            "portada" : "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51BvJ2xJAlL._SX342_SY445_QL70_ML2_.jpg" ,
+            "titulo" : "Reaper Man",
+            "saga" : "Death" ,
+            "sinopsis" : "'Inside every living person is a dead person waiting to get out.' Death has been fired by the Auditors of Reality for the heinous crime of developing...a personality. Sent to live like everyone else, Death takes a new name and begins working as a farmhand. He's got the scythe already, after all. And for humanity, Death is just...gone. Which leads to the kind of chaos you always get when an important public service is withdrawn. If Death doesn't come for you, then what are you supposed to do in the meantime? You can't have the undead wandering about like lost souls-there's no telling what might happen. Particularly when they discover that life really is only for the living...",
+            "año" : "1991"
+        },
+        {
+            "id" : 12,
+            "portada" : "https://kbimages1-a.akamaihd.net/4d08e00f-5535-472a-9821-97a43d416364/353/569/90/False/witches-abroad-1.jpg",
+            "titulo" : "Witches Abroad" ,
+            "saga" : "The Witches",
+            "sinopsis" : "'Things have to come to an end, see. That's how it works when you turn the world into stories. You should never have done that. You shouldn't treat people like they was characters, like they was things. But if you do, then you've got to know where the story ends.' It seemed an easy job... After all, how difficult could it be to make sure that a servant girl doesn't marry a prince? Quite hard, actually, even for the witches Granny Weatherwax, Nanny Ogg and Magrat Garlick. That's the problem with real life - it tends to get in the way of a good story, and a good story is hard to resist. Servant girls have to marry the prince. That's what life is all about. You can't fight a Happy Ending, especially when it comes with glass slippers and a Fairy Godmother who has made Destiny an offer it can't refuse. At least - up until now...",
+            "año" : "1991"
+        },
+        {
+            "id" : 13,
+            "portada" : "https://kbimages1-a.akamaihd.net/81c090b7-2045-424f-90bc-494f24b17a29/353/569/90/False/small-gods-1.jpg" ,
+            "titulo" : "Small Gods" ,
+            "saga" : "Omnia",
+            "sinopsis" : "'Just because you can't explain it, doesn't mean it's a miracle.' In the beginning was the Word. And the Word was: 'Hey, you!' This is the Discworld, after all, and religion is a controversial business. Everyone has their own opinion, and indeed their own gods, of every shape and size, and all elbowing for space at the top. In such a competitive environment, shape and size can be pretty crucial to make one's presence felt. So it's certainly not helpful to be reduced to appearing in the form of a tortoise, a manifestation far below god-like status in anyone's book. In such instances, you need an acolyte, and fast: for the Great God Om, Brutha the novice is the Chosen One - or at least the only One available. He wants peace and justice and brotherly love. He also wants the Inquisition to stop torturing him now, please...",
+            "año" : "1992"
+        },
+        {
+            "id" : 14,
+            "portada" : "https://kbimages1-a.akamaihd.net/a991e12f-0adc-43b9-aef8-a44ea0680e90/353/569/90/False/lords-and-ladies-4.jpg",
+            "titulo" : "Lords And Ladies",
+            "saga" : "The Witches",
+            "sinopsis" : "The fairies are back - but this time they don't just want your teeth. It's Midsummer Night - no time for dreaming. Because sometimes, when there's more than one reality at play, too much dreaming can make the walls between them come tumbling down. Unfortunately there's usually a damned good reason for there being walls between them in the first place - to keep things out. Things who want to make mischief and play havoc with the natural order. Granny Weatherwax and her tiny coven are up against real elves. And even in a world of dwarfs, wizards, trolls, Morris dancers and the odd orang-utan, this is going to cause real trouble. With lots of hey-nonny-nonny and blood all over the place.",
+            "año" : "1992"
+        },
+        {
+            "id" : 15,
+            "portada" : "https://kbimages1-a.akamaihd.net/6308fff4-3da6-4346-80c7-788494a210d1/353/569/90/False/men-at-arms-3.jpg",
+            "titulo" : "Men At Arms" ,
+            "saga" : "The City Watch",
+            "sinopsis" : "'What's so hard about pulling a sword out of a stone? The real work's already been done. You ought to make yourself useful and find the man who put the sword in the stone in the first place.' The City Watch needs MEN! But what it's got includes Corporal Carrot (technically a dwarf), Lance-constable Cuddy (really a dwarf), Lance-constable Detritus (a troll), Lance-constable Angua (a woman... most of the time) and Corporal Nobbs (disqualified from the human race for shoving). And they need all the help they can get, because someone in Ankh-Morpork has been getting dangerous ideas - about crowns and legendary swords, and destiny. And the problem with destiny is, of course, that she is not always careful where she points her finger. One minute you might be minding your own business on a normal if not spectacular career path, the next you might be in the frame for the big job, like saving the world...",
+            "año" : "1993"
+        },
+        {
+            "id" : 16,
+            "portada" : "https://kbimages1-a.akamaihd.net/6cc74aa6-8711-4e3b-bf02-19675df763e5/353/569/90/False/soul-music-2.jpg",
+            "titulo" : "Soul Music" ,
+            "saga" : "Death" ,
+            "sinopsis" : "This is a story about sex and drugs and Music With Rocks In. Well, one out of three ain't bad. Being sixteen is always difficult, even more so when there's a Death in the family. After all, it's hard to grow up normally when Grandfather rides a white horse and wields a scythe. Especially if he decides to take a well-earned moment to uncover the meaning of life and discover himself in the process, so that you have to take over the family business, and everyone mistakes you for the Tooth Fairy. And especially when you have to face the new and addictive music that has entered Discworld. It's lawless. It changes people. It's got a beat and you can dance to it. It's called Music With Rocks In and it won't fade away.",
+            "año" : "1994"
+        },
+        {
+            "id" : 17,
+            "portada" : "https://www.terrypratchettbooks.com/wp-content/uploads/2019/05/Interesting-Times-FINAL.jpg",
+            "titulo" : "Interesting Times",
+            "saga" : "Rincenwind" ,
+            "sinopsis" : "'There is a curse. They say: may you live in interesting times . . .' This is the worst thing you can wish on a citizen of Discworld. Especially for the magically challenged Rincewind, who has already had far too much excitement in his life. Unfortunately, the unlucky wizard always seems to end up in the middle of, well, absolutely everything. So when a request for a 'Great Wizzard' arrives from the faraway Counterweight Continent, it's obviously Rincewind who's sent. For one thing, he's the only one who spells wizard that way.Once again Rincewind is thrown headfirst into a dangerous adventure. For the oldest empire on the Disc is in turmoil and Chaos is building. And, for some reason, someone believes Rincewind will have a vital role in the coming war . . .",
+            "año" : "1994"
+        },
+        {
+            "id" : 18,
+            "portada" : "https://kbimages1-a.akamaihd.net/552880b1-a56d-4a5a-979f-8b8ba9b0f324/353/569/90/False/maskerade-1.jpg" ,
+            "titulo" : "Maskerade" ,
+            "saga" : "The Witches" ,
+            "sinopsis" : "'There's a kind of magic in masks. Masks conceal one face, but they reveal another. The one that only comes out in darkness . . .' The Opera House in Ankh-Morpork is home to music, theatrics and a harmless masked Ghost who lurks behind the scenes. But now a set of mysterious backstage murders may just stop the show. Agnes Nitt has left her rural home of Lancre in the hopes of launching a successful singing career in the big city. The only problem is, she doesn't quite look the part. And there are two witches who would much rather she return home to join their coven. Granny Weatherwax and Nanny Ogg have travelled to Ankh-Morpork to convince Agnes that life as a witch is much better than one on the stage. Only now they're caught up in a murder mystery featuring masks and maniacal laughter. And the show MUST go on . . .",
+            "año" : "1995"
+        },
+        {
+            "id" : 19,
+            "portada" : "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91xJCwgKJbL.jpg" ,
+            "titulo" : "Feet of Clay",
+            "saga" : "The City Watch",
+            "sinopsis" : "'Sorry?' said Carrot. If it's just a thing, how can it commit murder? A sword is a thing' - he drew his own sword; it made an almost silken sound - 'and of course you can't blame a sword if someone thrust it at you, sir.' For Commander Vimes, Head of Ankh-Morpork City Watch, life consists of troubling times, linked together by...well, more troubling times. Right now, it's the latter. There's a werewolf with pre-lunar tension in the city, and a dwarf with attitude and a golem who's begun to think for itself, but that's just ordinary trouble. The real problem is more puzzling - people are being murdered, but there's no trace of anything alive having been at the crime scene. So Vimes not only has to find out whodunit, but howdunit too. He's not even sure what they dun. But soon as he knows what the questions are, he's going to want some answers.",
+            "año" : "1996"
+        },
+        {
+            "id" : 20,
+            "portada" : "https://kbimages1-a.akamaihd.net/e91e1587-2df7-4b71-90df-fed28422d01c/353/569/90/False/hogfather-1.jpg" ,
+            "titulo" : "Hogfather",
+            "saga" : "Death",
+            "sinopsis" : "Susan had never hung up a stocking . She'd never put a tooth under her pillow in the serious expectation that a dentally inclined fairy would turn up. It wasn't that her parents didn't believe in such things. They didn't need to believe in them. They know they existed. They just wished they didn't. It's the night before Hogswatch. And it's too quiet. Where is the big jolly fat man? There are those who believe and those who don't, but either way it's not right to find Death creeping down chimneys and trying to say Ho Ho Ho. Superstition makes things work in Discworld, and undermining it can have Consequences, particularly on the last night of the year when the time is turning. Susan the gothic governess has got to sort everything out by morning, otherwise there won't be a morning. Ever again...",
+            "año" : "1996"
+        },
+        {
+            "id" : 21,
+            "portada" : "https://kbimages1-a.akamaihd.net/bdf3018c-2d40-4500-b88b-4aa749d5cf0f/353/569/90/False/jingo-1.jpg",
+            "titulo" : "Jingo" ,
+            "saga" : "The City Watch" ,
+            "sinopsis" : "'Neighbours... hah. People'd live for ages side by side, nodding at one another amicably on their way to work, and then some trivial thing would happen and someone would be having a garden fork removed from their ear.' When the neighbours in question are the proud empires of Klatch and Ankh-Morpork, those are going to be some pretty large garden tools indeed. Of course, no-one would dream of starting a war without a perfectly good reason...such as a 'strategic' piece of old rock in the middle of nowhere. It is after all every citizen's right to bear arms to defend their own. Even if it isn't technically their own. And even if they don't have much in the way of actual weaponry. As two armies march, Commander Vimes of Ankh-Morpork City Watch faces unpleasant foes who are out to get him... and that's just the people on his side. The enemy might be even worse.",
+            "año" : "1997"
+        },
+        {
+            "id" : 22,
+            "portada" : "https://kbimages1-a.akamaihd.net/d8d560bb-72fd-4ed6-8cb9-a153544274e7/353/569/90/False/the-last-continent-2.jpg",
+            "titulo" : "The Last Continent" ,
+            "saga" : "Rincenwind" ,
+            "sinopsis" : "'Anything you do in the past changes the future.The tiniest little actions have huge consequences.You might tread on an ant now and it might entirely prevent someone from being born in the future.' There's nothing like the issue of evolution to get under the skin of academics.Especially when those same academics are by chance or bad judgement deposited at a critical evolutionary turning point when one wrong move could have catastrophic results for the future. Unfortunately in the hands of such an inept and cussed group of individuals, the sensitive issue of causality is sadly only likely to receive the same scant respect that they show to one another...",
+            "año" : "1998"
+        },
+        {
+            "id" : 23,
+            "portada" : "https://kbimages1-a.akamaihd.net/3e7988d5-ffbc-412d-89d5-e0260dc96145/353/569/90/False/carpe-jugulum-2.jpg" ,
+            "titulo" : "Carpe Jugulum",
+            "saga" : "The Witches",
+            "sinopsis" : "In this and indeed other lives there are givers and takers. It's safe to say that vampires are very much in the latter camp - unapologetically so. Most of them have had plenty of practice - after all they've been undead for centuries. And they haven't got that old without being artful. The Magpyrs are a thoroughly modern, sophisticated vampire family. They're looking to enhance their social status by taking over a kingdom or two. Over the years they've even developed a taste for garlic and for holy icons. They're not going to take 'no' for an answer - particularly from witches or priests...",
+            "año" : "1998"
+        },
+        {
+            "id" : 24,
+            "portada" : "https://kbimages1-a.akamaihd.net/a4f3c10f-9414-4aa5-9684-0c6596024b15/353/569/90/False/the-fifth-elephant-1.jpg",
+            "titulo" : "The Fifth Elephant",
+            "saga" : "The City Watch" ,
+            "sinopsis" : "They say that diplomacy is a gentle art. That its finest practitioners are subtle, sophisticated individuals for whom nuance and subtext are meat and drink. And that mastering it is a lifetime's work. But you do need a certain inclination in that direction. It's not something you can just pick up on the job. Which is a shame if you find yourself dropped unaccountably into a position of some significant diplomatic responsibility. If you don't really do diplomacy or haven't been to school with the right foreign bigwigs or aren't even sure whether a nod is as good as a wink to anyone, sighted or otherwise, then things are likely to go wrong. It's just a question of how badly...",
+            "año" : "1999"
+        },
+        {
+            "id" : 25,
+            "portada" : "https://kbimages1-a.akamaihd.net/a2d4873a-de5c-41c7-8a5c-0d1460b64353/353/569/90/False/the-truth-9.jpg",
+            "titulo" : "The Truth",
+            "saga" : "Industrial Revolution",
+            "sinopsis" : "The truth will out, or at least it's going to try to, any minute. New printing technology means that words just won't obediently stay nailed down like usual. They can now be taken apart and used to make other words. Which is downright dangerous. There's a very real threat of news getting out there. Of people finding out what's really going on. And the powers that be aren't happy - they want that to be far from the truth. If they are to call a halt to this madness of free speech, they may have to succumb to their despotic tendencies. But will they, in this brave new world, still be able to have the last word?",
+            "año" : "2000"
+        },
+        {
+            "id" : 26,
+            "portada" : "https://kbimages1-a.akamaihd.net/106edc84-7435-4b07-b572-26db3051acf8/353/569/90/False/thief-of-time-2.jpg",
+            "titulo" : "Thief Of Time" ,
+            "saga" : "Death" ,
+            "sinopsis" : "Time isn't a toy to be played with. It's bigger than all of us. It exists outside the artificial and arbitrary divisions into which humankind has presumptuously shoehorned it. It needs to elastic. To understand truly, you have to see time as the most important resource we have. You mess with it at your peril. You can let it move fast or slowly but what you mustn't do is allow it to stop. Because when time stands still, everything stops with it. Then, there really is no future. And where would we be without one of those?",
+            "año" : "2001"
+        },
+        {
+            "id" : 27,
+            "portada" : "https://www.terrypratchettbooks.com/wp-content/uploads/2019/04/thelasthero-pb-us-878x1024.jpg" ,
+            "titulo" : "The Last Hero" ,
+            "saga" : "Rincenwind",
+            "sinopsis" : "A short but perfectly formed complete Discworld novel, fully illustrated in lavish colour throughout, The Last Hero is an essential part of any Discworld collection. It stars the legendary Cohen the Barbarian, a legend in his own lifetime. Cohen can remember when a hero didn't have to worry about fences and lawyers and civilisation, and when people didn't tell you off for killing dragons. But he can't always remember, these days, where he put his teeth… So now, with his ancient sword and his new walking stick and his old friends -and they're very old friends- Cohen the Barbarian is going on one final quest. He's going to climb the highest mountain in the Discworld and meet his gods. The last hero in the world is going to return what the first hero stole. With a vengeance. That'll mean the end of the world, if no one stops him in time.",
+            "año" : "2001"
+        },
+        {
+            "id" : 28,
+            "portada" : "https://kbimages1-a.akamaihd.net/0413635f-a037-4bc4-aee4-611b648d65e7/353/569/90/False/the-amazing-maurice-and-his-educated-rodents-1.jpg",
+            "titulo" : "The Amazing Maurice and his Educated Rodents",
+            "saga" : "Überwald",
+            "sinopsis" : "IT'S A RAT-EAT-RAT WORLD . . . Every town on Discworld knows the stories about rats and pipers, and Maurice - a streetwise tomcat - leads a band of educated ratty friends (and a stupid kid) on a nice little earner. Piper plus rats equals lots and lots of money. Until they run across someone playing a different tune. Now he and his rats must learn a new concept: evil . . .",
+            "año" : "2001"
+        },
+        {
+            "id" : 29,
+            "portada" : "https://kbimages1-a.akamaihd.net/443aa425-d505-43bd-9572-47b91ecc7191/353/569/90/False/night-watch-9.jpg",
+            "titulo" : "Night Watch" ,
+            "saga" : "The City Watch",
+            "sinopsis" : "'Don't put your trust in revolutions. They always come round again. That's why they're called revolutions. People die, and nothing changes.' For a policeman, there can be few things worse than a serial killer at loose in your city. Except, perhaps, a serial killer who targets coppers, and a city on the brink of bloody revolution. The people have found their voice at last, the flags and barricades are rising...And the question for a policeman, an officer of the law, adefender of the peace, is: Are you with them, or are you against them?",
+            "año" : "2002"
+        },
+        {
+            "id" : 30,
+            "portada" : "https://kbimages1-a.akamaihd.net/c20d470b-7ddd-42a5-827c-52d4428612b7/353/569/90/False/the-wee-free-men-1.jpg",
+            "titulo" : "The Wee Free Men" ,
+            "saga" : "Tiffany Aching",
+            "sinopsis" : "Nine-year-old Tiffany Aching thinks her Granny Aching - a wise shepherd - might have been a witch, but now Granny Aching is dead and it's up to Tiffany to work it all out when strange things begin happening: a fairy-tale monster in the stream, a headless horseman and, strangest of all, the tiny blue men in kilts, the Wee Free Men, who have come looking for the new 'hag'. These are the Nac Mac Feegles, the pictsies, who like nothing better than thievin', fightin' and drinkin'. Then Tiffany's young brother goes missing and Tiffany and the Wee Free Men must join forces to save him from the Queen of the Fairies . . .",
+            "año" : "2003"
+        },
+        {
+            "id" : 31,
+            "portada" : "https://kbimages1-a.akamaihd.net/9197bc3d-6ddf-4df5-8c99-340e54a7eb24/353/569/90/False/monstrous-regiment-1.jpg",
+            "titulo" : "Monstrous Regiment" ,
+            "saga" : "Industrial Revolution" ,
+            "sinopsis" : "'Trousers. That's the secret...Put on trousers and the world changes. We walk different. We act different. I see these girls and I think: idiots! Get yourself some trousers!' Women belong in the kitchen - everyone knows that. Not in jobs, pubs or indeed trousers, and certainly not on the front line, braving enemy forces in defence of their country. Then again, there's always a war on somewhere, even if no-one really knows what it's about. And when money and enthusiasm for it are running very low, it might be time to let women make a stand, on the battlefield and for their rights...",
+            "año" : "2003"
+        },
+        {
+            "id" : 32,
+            "portada" : "https://kbimages1-a.akamaihd.net/ce693fe8-1dad-4beb-9389-6eb1496ecbd4/353/569/90/False/a-hat-full-of-sky-1.jpg",
+            "titulo" : "A Hat Full of Sky",
+            "saga" : "Tiffany Aching" ,
+            "sinopsis" : "A real witch never casually steps out of her body, leaving it empty. Eleven-year-old Tiffany does. And there's something just waiting for a handy body to take over. Something ancient and horrible, which can't die . . . Wise, witty and wonderful, A Hat Full of Sky is Terry Pratchett's second novel about Tiffany and the Wee Free Men - the rowdiest, toughest, smelliest bunch of fairies ever. They'll fight anything. And even they might not be enough to save Tiffany . . .",
+            "año" : "2004"
+        },
+        {
+            "id" : 33,
+            "portada" : "https://kbimages1-a.akamaihd.net/650c7792-e290-4dc6-a87f-21b730f32d15/353/569/90/False/going-postal-1.jpg",
+            "titulo" : "Going Postal",
+            "saga" : "Moist von Lipwig" ,
+            "sinopsis" : "The post was an old thing, of course, but it was so old that it had magically become new again. The post office is an ailing institution belonging to the olden days. New technology overshadows its mind-numbing bureaucracy and the creakingly slow pace of change. You can call them nostalgic, but there are still people who believe in the post: in the beauty of stamps and cast-iron pillar boxes, and the dignity of the postman braving hail, wind and troublesome dogs. And sometimes it's worth standing up for what you believe in...",
+            "año" : "2004"
+        },
+        {
+            "id" : 34,
+            "portada" : "https://kbimages1-a.akamaihd.net/f0d1a4b4-db8d-4e75-9f69-7436a16885ee/353/569/90/False/thud-1.jpg" ,
+            "titulo" : "Thud!" ,
+            "saga" : "The City Watch",
+            "sinopsis" : "'Some people would be asking: whose side are you on? If you're not for us, you're against us. Huh. If you're not an apple, you're a banana' When it comes to racial hatred and sectarian violence, the phrase 'vive la difference' is usually one of the furthest from the tip of the mob's tongue. When a whole city is poised on the very brink of anarchy, it only requires one thing to pitch it over the edge. Like the murder of one of the key participants for example...",
+            "año" : "2005"
+        },
+        {
+            "id" : 35,
+            "portada" : "https://kbimages1-a.akamaihd.net/ca426bd4-6d2c-45d5-a388-da5f4bbfff64/353/569/90/False/wintersmith-1.jpg" ,
+            "titulo" : "Wintersmith" ,
+            "saga" : "Tiffany Aching",
+            "sinopsis" : "'Crivens!' Tiffany Aching put one foot wrong, made just one little mistake . . . And now the spirit of winter is in love with her. He gives her roses and icebergs and showers her with snowflakes, which is tough when you're thirteen, but also just a little bit . . . cool. And if Tiffany doesn't work out how to deal with him, there will never be another springtime . . .Crackling with energy and humour, Wintersmith is the third tale in a sequence about Tiffany Aching and the Wee Free Men - the Nac Mac Feegles who are determined to help Tiffany, whether she wants it or not.",
+            "año" : "2006"
+        },
+        {
+            "id" : 36,
+            "portada" : "https://kbimages1-a.akamaihd.net/67870235-098e-47b3-906f-c8496cfd6a49/353/569/90/False/making-money-6.jpg" ,
+            "titulo" : "Making Money",
+            "saga" : "Moist von Lipwig" ,
+            "sinopsis" : "'Whoever said you can't fool an honest man wasn't one' The banks are facing a crisis, and this time it's too serious even for the old boys' club to sort it out - this time, they've sunk to government intervention. But opening the vaults to public scrutiny brings a whole host of problems for those at the top: people want to know where the money's gone, they want loans, reasonable interest rates and much much worse - accountability. The fortress of high finance is crumbling, and it may be time for a change of management - before it's too late.",
+            "año" : "2007"
+        },
+        {
+            "id" : 37,
+            "portada" : "https://kbimages1-a.akamaihd.net/cf01faf3-ae8c-4058-8aa1-19def3adbca8/353/569/90/False/unseen-academicals-1.jpg" ,
+            "titulo" : "Unseen Academicals" ,
+            "saga" : "Rincenwind",
+            "sinopsis" : "'The thing about football - the important thing about football - is that it is not just about football.' Football is supposed to be a gentleman's game, played on venerable university lawns for honour, polite applause and a hearty match tea afterwards. Unfortunately for the gentlemen, the rest of the world doesn't see it that way. Football has moved on, to the streets, and now it inhabits a world of pies, chants and jumpers for goalposts. This is a world where a talent for keeping tin cans in the air could make you a local celebrity, and where any polite applause is lost in the roar of pitched battles between fans. This is a world oflife or death. And if the gentlemen want to try and bend it to their rules again, they're going to have a fight on their hands.",
+            "año" : "2009"
+        },
+        {
+            "id" : 38,
+            "portada" : "https://kbimages1-a.akamaihd.net/31ca3c2e-c615-4181-90ee-0597be2e3f4a/353/569/90/False/i-shall-wear-midnight-1.jpg" ,
+            "titulo" : "I Shall Wear Midnight" ,
+            "saga" : "Tiffany Aching",
+            "sinopsis" : "A man with no eyes. No eyes at all. Two tunnels in his head . . . It's not easy being a witch, and it's certainly not all whizzing about on broomsticks, but Tiffany Aching - teen witch - is doing her best. Until something evil wakes up, something that stirs up all the old stories about nasty old witches, so that just wearing a pointy hat suddenly seems a very bad idea. Worse still, this evil ghost from the past is hunting down one witch in particular. He's hunting for Tiffany. And he's found her . . .",
+            "año" : "2010"
+        },
+        {
+            "id" : 39,
+            "portada" : "https://kbimages1-a.akamaihd.net/412e69d6-98a6-4027-ae0e-6a97ec1d4064/353/569/90/False/snuff-discworld-novel-39.jpg",
+            "titulo" : "Snuff" ,
+            "saga" : "The City Watch",
+            "sinopsis" : "It is a truth universally acknowledged that a policeman taking a holiday would barely have had time to open his suitcase before he finds his first corpse. And Commander Sam Vimes of the Ankh-Morpork City Watch is on holiday in the pleasant and innocent countryside, but not for him a mere body in the wardrobe. There are many, many bodies and an ancient crime more terrible than murder. He is out of his jurisdiction, out of his depth, out of bacon sandwiches, and occasionally snookered and out of his mind, but never out of guile. Where there is a crime there must be a finding, there must be a chase and there must be a punishment. They say that in the end all sins are forgiven. But not quite all...",
+            "año" : "2011"
+        },
+        {
+            "id" : 40,
+            "portada" : "https://kbimages1-a.akamaihd.net/dd7c3b8f-47be-4cbd-89f2-4339ecf7eb77/353/569/90/False/raising-steam.jpg",
+            "titulo" : "Raising Steam",
+            "saga" : "Moist von Lipwig",
+            "sinopsis" : "To the consternation of the patrician, Lord Vetinari, a new invention has arrived in Ankh-Morpork - a great clanging monster of a machine that harnesses the power of all of the elements: earth, air, fire and water. This being Ankh-Morpork, it's soon drawing astonished crowds, some of whom caught the zeitgeist early and arrive armed with notepads and very sensible rainwear. Moist von Lipwig is not a man who enjoys hard work - as master of the Post Office, the Mint and the Royal Bank his input is, of course, vital . . . but largely dependent on words, which are fortunately not very heavy and don't always need greasing. However, he does enjoy being alive, which makes a new job offer from Vetinari hard to refuse . . . Steam is rising over Discworld, driven by Mister Simnel, the man wi' t'flat cap and sliding rule who has an interesting arrangement with the sine and cosine. Moist will have to grapple with gallons of grease, goblins, a fat controller with a history of throwing employees down the stairs and some very angry dwarfs if he's going to stop it all going off the rails . . .",
+            "año" : "2013"
+        },
+        {
+            "id" : 41,
+            "portada" :"https://kbimages1-a.akamaihd.net/854b44af-e4f8-435c-80f0-e887925d2f2a/353/569/90/False/the-shepherd-s-crown.jpg",
+            "titulo" : "The Shepherd's Crown" ,
+            "saga" : "Tiffany Aching",
+            "sinopsis" : "Deep in the Chalk, something is stirring. The owls and the foxes can sense it, and Tiffany Aching feels it in her boots. An old enemy is gathering strength. This is a time of endings and beginnings, old friends and new, a blurring of edges and a shifting of power. Now Tiffany stands between the light and the dark, the good and the bad. As the fairy horde prepares for invasion, Tiffany must summon all the witches to stand with her. To protect the land. Her land. There will be a reckoning . . . THE FINAL DISCWORLD NOVEL",
+            "año" : "2015"
+        }
+    ]
+}
